@@ -1,0 +1,31 @@
+D:\UTN\Gestión de Datos\s_QUERY-TP-GDD\s_QUERY-TP-GDD\FrbaOfertas\bin\Debug\FrbaOfertas.exe.config
+D:\UTN\Gestión de Datos\s_QUERY-TP-GDD\s_QUERY-TP-GDD\FrbaOfertas\bin\Debug\FrbaOfertas.exe
+D:\UTN\Gestión de Datos\s_QUERY-TP-GDD\s_QUERY-TP-GDD\FrbaOfertas\bin\Debug\FrbaOfertas.pdb
+D:\UTN\Gestión de Datos\s_QUERY-TP-GDD\s_QUERY-TP-GDD\FrbaOfertas\obj\Debug\FrbaOfertas.AbmRol.AltaRol.resources
+D:\UTN\Gestión de Datos\s_QUERY-TP-GDD\s_QUERY-TP-GDD\FrbaOfertas\obj\Debug\FrbaOfertas.AbmRol.EliminacionRol.resources
+D:\UTN\Gestión de Datos\s_QUERY-TP-GDD\s_QUERY-TP-GDD\FrbaOfertas\obj\Debug\FrbaOfertas.AbmRol.FormularioModificacionRol.resources
+D:\UTN\Gestión de Datos\s_QUERY-TP-GDD\s_QUERY-TP-GDD\FrbaOfertas\obj\Debug\FrbaOfertas.AbmRol.ListadoSeleccionRol.resources
+D:\UTN\Gestión de Datos\s_QUERY-TP-GDD\s_QUERY-TP-GDD\FrbaOfertas\obj\Debug\FrbaOfertas.CragaCredito.Form1.resources
+D:\UTN\Gestión de Datos\s_QUERY-TP-GDD\s_QUERY-TP-GDD\FrbaOfertas\obj\Debug\FrbaOfertas.ComprarOferta.Form1.resources
+D:\UTN\Gestión de Datos\s_QUERY-TP-GDD\s_QUERY-TP-GDD\FrbaOfertas\obj\Debug\FrbaOfertas.CrearOferta.Form1.resources
+D:\UTN\Gestión de Datos\s_QUERY-TP-GDD\s_QUERY-TP-GDD\FrbaOfertas\obj\Debug\FrbaOfertas.EntregaOferta.Form1.resources
+D:\UTN\Gestión de Datos\s_QUERY-TP-GDD\s_QUERY-TP-GDD\FrbaOfertas\obj\Debug\FrbaOfertas.LoginYSeguridad.Login.resources
+D:\UTN\Gestión de Datos\s_QUERY-TP-GDD\s_QUERY-TP-GDD\FrbaOfertas\obj\Debug\FrbaOfertas.Properties.Resources.resources
+D:\UTN\Gestión de Datos\s_QUERY-TP-GDD\s_QUERY-TP-GDD\FrbaOfertas\obj\Debug\FrbaOfertas.RegistroUsuario.RegistroCliente.resources
+D:\UTN\Gestión de Datos\s_QUERY-TP-GDD\s_QUERY-TP-GDD\FrbaOfertas\obj\Debug\FrbaOfertas.RegistroUsuario.AbmCliente.ListadoClientes.resources
+D:\UTN\Gestión de Datos\s_QUERY-TP-GDD\s_QUERY-TP-GDD\FrbaOfertas\obj\Debug\FrbaOfertas.RegistroUsuario.RegistroProveedor.resources
+D:\UTN\Gestión de Datos\s_QUERY-TP-GDD\s_QUERY-TP-GDD\FrbaOfertas\obj\Debug\FrbaOfertas.RegistroUsuario.AbmProveedor.ListadoProveedores.resources
+D:\UTN\Gestión de Datos\s_QUERY-TP-GDD\s_QUERY-TP-GDD\FrbaOfertas\obj\Debug\FrbaOfertas.RegistroUsuario.RegistroUsuario.resources
+D:\UTN\Gestión de Datos\s_QUERY-TP-GDD\s_QUERY-TP-GDD\FrbaOfertas\obj\Debug\FrbaOfertas.csproj.GenerateResource.Cache
+D:\UTN\Gestión de Datos\s_QUERY-TP-GDD\s_QUERY-TP-GDD\FrbaOfertas\obj\Debug\FrbaOfertas.exe
+D:\UTN\Gestión de Datos\s_QUERY-TP-GDD\s_QUERY-TP-GDD\FrbaOfertas\obj\Debug\FrbaOfertas.pdb
+D:\UTN\Gestión de Datos\s_QUERY-TP-GDD\s_QUERY-TP-GDD\FrbaOfertas\obj\Debug\FrbaOfertas.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\UTN\3er año\Gestion de Datos\s_QUERY-TP-GDD\s_QUERY-TP-GDD\FrbaOfertas\bin\Debug\FrbaOfertas.exe.config
+C:\Users\Dell\Documents\UTN\3er año\Gestion de Datos\s_QUERY-TP-GDD\s_QUERY-TP-GDD\FrbaOfertas\obj\Debug\FrbaOfertas.exe
+C:\Users\Dell\Documents\UTN\3er año\Gestion de Datos\s_QUERY-TP-GDD\s_QUERY-TP-GDD\FrbaOfertas\obj\Debug\FrbaOfertas.pdb
+C:\Users\Leon\Documents\Facultad\Tercer Año\Gestion de Datos\Repositorio_TP\s_QUERY-TP-GDD\s_QUERY-TP-GDD\FrbaOfertas\bin\Debug\FrbaOfertas.exe.config
+C:\Users\Leon\Documents\Facultad\Tercer Año\Gestion de Datos\Repositorio_TP\s_QUERY-TP-GDD\s_QUERY-TP-GDD\FrbaOfertas\obj\Debug\FrbaOfertas.exe
+C:\Users\Leon\Documents\Facultad\Tercer Año\Gestion de Datos\Repositorio_TP\s_QUERY-TP-GDD\s_QUERY-TP-GDD\FrbaOfertas\obj\Debug\FrbaOfertas.pdb
+C:\Users\Leon\Documents\Facultad\Tercer Año\Gestion de Datos\Repositorio_TP\Repositorio\s_QUERY-TP-GDD\s_QUERY-TP-GDD\FrbaOfertas\bin\Debug\FrbaOfertas.exe.config
+C:\Users\Leon\Documents\Facultad\Tercer Año\Gestion de Datos\Repositorio_TP\Repositorio\s_QUERY-TP-GDD\s_QUERY-TP-GDD\FrbaOfertas\obj\Debug\FrbaOfertas.exe
+C:\Users\Leon\Documents\Facultad\Tercer Año\Gestion de Datos\Repositorio_TP\Repositorio\s_QUERY-TP-GDD\s_QUERY-TP-GDD\FrbaOfertas\obj\Debug\FrbaOfertas.pdb
